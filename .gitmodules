@@ -1,0 +1,3 @@
+[submodule "platforms/rpi-docs"]
+	path = platforms/rpi-docs
+	url = https://github.com/raspberrypi/documentation
